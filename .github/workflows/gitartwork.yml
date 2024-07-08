@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: Niketiiitd
             # Text on contribution graph 
-            text: NIKET
+            text: NIKEY
        - uses: jasineri/simple-push-action@v1
