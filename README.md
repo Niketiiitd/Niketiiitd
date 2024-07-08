@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Niketiiitd&label=Visitors" />
 
 <h2 align="center">A passionate software developer from India</h2>
-
+![gitartwork](gitartwork.svg)
 <h3 align="center">Techstack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
