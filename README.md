@@ -11,10 +11,10 @@
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/SaranshBangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranshbangar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saranshbangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saranshbangar" height="30" width="40" /></a>
-<a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saranshbangar" height="30" width="40" /></a>
-<a href="https://instagram.com/saransh.bangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saransh.bangar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niket-agarwal-iiitd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niket agarwal" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/niketagagwfh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="niket agarwal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Niket_Agarwal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niket agarwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/niket_agarwal_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Niket agarwal" height="30" width="40" /></a>
 </p>
 
 ## 📈 GitHub Stats
