@@ -22,4 +22,4 @@
 <div align="center">
   <img width="400" src="https://kasroudra-stats-card.onrender.com/user?user=Niketiiitd&theme=synthwave" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd)](https://github.com/anuraghazra/github-readme-stats)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd">
