@@ -22,7 +22,10 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://kasroudra-stats-card.onrender.com/user?user=Niketiiitd&theme=synthwave" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd">
+<p align="center">
+  <img width="500" src="https://kasroudra-stats-card.onrender.com/user?user=Niketiiitd&theme=synthwave" alt="GitHub Stats Card" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd" alt="GitHub Top Languages" />
+</p>
+
