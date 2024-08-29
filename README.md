@@ -20,11 +20,21 @@
 <a href="https://www.instagram.com/niket_agarwal_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Niket agarwal" height="30" width="40" /></a>
 </p>
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niketiiitd&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niketiiitd&theme=react&hide_border=false" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img width="500" src="https://kasroudra-stats-card.onrender.com/user?user=Niketiiitd&theme=synthwave" alt="GitHub Stats Card" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Niketiiitd&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd" alt="GitHub Top Languages" />
 </p> -->
